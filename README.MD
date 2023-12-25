@@ -32,7 +32,7 @@
 
 Projeto com o objetivo de gerar um artigo técnico com um layout rico, leitura agradável e com foco em promover uma autoridade técnica.
 
-<a href="hhttps://www.dio.me/articles/utilizando-o-laravel-em-arquitetura-de-microservicos" title="View PDF now"> 📕Clique aqui para ler o artigo</a>
+<a href="https://www.dio.me/articles/utilizando-o-laravel-em-arquitetura-de-microservicos" title="View PDF now"> 📕Clique aqui para ler o artigo</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
