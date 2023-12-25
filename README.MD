@@ -14,7 +14,7 @@
 
 <p align="center">
   <img 
-    src=".github/assets/preview.png"
+    src=".github/assets/preview-laravel.png"
     width="400"  
   />
 </p>
@@ -32,12 +32,12 @@
 
 Projeto com o objetivo de gerar um artigo técnico com um layout rico, leitura agradável e com foco em promover uma autoridade técnica.
 
-<a href="https://web.dio.me/articles/diretivas-estruturais-versus-diretivas-de-atributo-qual-usar-no-angular?back=%2Farticles&page=1&order=oldest#state=044ab194-1e3a-4b8e-95fe-c0f6b3b5260e&session_state=efdc9591-d6fe-4d79-ae97-e58af45061da&code=5ac231e4-c722-46c3-bb7f-32ce5363fb78.efdc9591-d6fe-4d79-ae97-e58af45061da.a889d5a2-0d02-46df-83a5-28a1b4ac39ab" title="View PDF now"> 📕Clique aqui para ler o artigo</a>
+<a href="hhttps://www.dio.me/articles/utilizando-o-laravel-em-arquitetura-de-microservicos" title="View PDF now"> 📕Clique aqui para ler o artigo</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
-- [ChatGPT](https://chat.openai.com/) - especificamente para o conteúdo
-- [Lexica.art](https://lexica.art/) - para gerar imagens
+- [ChatGPT](https://chat.openai.com/) - Especificamente para o conteúdo
+- [Lexica.art](https://lexica.art/) - Para gerar imagens
 - [Canva](https://www.canva.com) - Para formatação de banners e Layouts
 - [Gimp](https://www.gimp.org) - Para tratamento de imagens
 
@@ -54,9 +54,20 @@ ChatGPT：
 
 Lexica.art：
 
-- No léxica utilizamos o acervo público de imagens geradas por outras pessoas, os termos de pesquisa que utilizei durante a gravação do conteúdo foram:
+- No léxica utilizei o acervo público de imagens geradas por outras pessoas, os termos de pesquisa que utilizei foram:
 
-• Angular
+• laravel microserviços
+• microserviços
+• introduction
+• conclusion
+• examples
+• production sources
+• users
+• products
+• observation
+
+
+
 
 
 
@@ -64,6 +75,7 @@ Lexica.art：
 
 - Conteúdo gerado via ChatGPT
 - Imagens do acervo público geradas via Lexica.art
+- Imagens editadas com Canva e Gimp
 
 ## 📚 Materiais
 
@@ -71,7 +83,7 @@ Lexica.art：
 
 ## 🛠️ Instruções de execução
 
-Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e utilize uma ferramenta de edição de documentos como power point, libreoffice , indesign para diagramação, o passo a passo em vídeo pode ser conferido na plataforma da [DIO](https://dio.me).
+Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e utilize uma ferramenta de edição de imagens como Gimp e Canva para diagramação, o passo a passo em vídeo pode ser conferido na plataforma da [DIO](https://dio.me).
 
 ## 👨‍💻 Expert
 
