@@ -55,15 +55,16 @@ ChatGPT：
 Lexica.art：
 
 - No léxica utilizei o acervo público de imagens geradas por outras pessoas, os termos de pesquisa que utilizei foram:
-  • laravel microserviços
-  • microserviços
-  • introduction
-  • conclusion
-  • examples
-  • production sources
-  • users
-  • products
-  • observation
+
+  - laravel microserviços
+  - microserviços
+  - introduction
+  - conclusion
+  - examples
+  - production sources
+  - users
+  - products
+  - observation
 
 
 
